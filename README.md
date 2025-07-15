@@ -7,10 +7,8 @@ Netflix is a popular streaming service that offers a vast catalog of movies, TV 
 # Data Cleaning
 
 We are going to:
-1. Treat theNulls
-2. Treat theduplicates
-3.Populatemissingrows
-4.Dropunneededcolumns
-5.Splitcolumns
-Extra steps and more explanation on the process will be explained through the code comments.
- 
+1. Treat the Nulls
+2. Treat the duplicates
+3. Populate missing rows
+4. Drop unneeded columns
+5. Split columns
